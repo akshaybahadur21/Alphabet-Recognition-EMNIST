@@ -21,7 +21,7 @@ For more information, [see](https://www.kdnuggets.com/2016/07/softmax-regression
 ### Train Acuracy ~ 91 to 99%
 ### Test Acuracy ~ 70 to 84%
 
-<img src="https://github.com/akshaybahadur21/Digit-Recognizer/blob/master/final_emnist.gif">
+<img src="https://github.com/akshaybahadur21/Alphabet-Recognition-EMNIST/blob/master/emnist.gif">
 
 ### Execution for writing through webcam
 To run the code, type `python Alpha-Rec.py`
