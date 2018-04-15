@@ -1,0 +1,4 @@
+numpy
+matplotlib
+cv2
+python-mnist
