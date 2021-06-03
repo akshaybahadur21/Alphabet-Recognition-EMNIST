@@ -1,31 +1,29 @@
-# Alphabet Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Alphabet-Recognition-EMNIST/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+# Alphabet Recognition ⚓
+
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Alphabet-Recognition-EMNIST/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+
 This code helps you classify different alphabets using softmax regression (lower case).
 
-### Sourcerer
-[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Alphabet-Recognition-EMNIST/links/7)
-
-### Code Requirements
+## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
 
-### Description
+## Description ⚙️
 Softmax Regression (synonyms: Multinomial Logistic, Maximum Entropy Classifier, or just Multi-class Logistic Regression) is a generalization of logistic regression that we can use for multi-class classification (under the assumption that the classes are mutually exclusive). In contrast, we use the (standard) Logistic Regression model in binary classification tasks.
 
 For more information, [see](https://www.kdnuggets.com/2016/07/softmax-regression-related-logistic-regression.html)
 
-
-### Python  Implementation
+## Python  Implementation 👨‍🔬
 
 1) Dataset- Extended MNIST dataset (letters)
 2) Images of size 28 X 28
 3) Classify alphabets from a to z
 4) Logistic Regression, Shallow Network and Deep Network Support added.
 
-### Train Acuracy ~ 91 to 99%
-### Test Acuracy ~ 70 to 84%
-
+## Results 📊
 <img src="https://github.com/akshaybahadur21/Alphabet-Recognition-EMNIST/blob/master/emnist.gif">
 
-### Execution for writing through webcam
+## Execution 🐉
+
 To run the code, type `python Alpha-Rec.py`
 
 ```
