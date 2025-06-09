@@ -30,7 +30,15 @@ To run the code, type `python Alpha-Rec.py`
 python Alpha-Rec.py
 ```
 
+## 📌 Cite Us
 
-
-
-
+To cite this guide, use the below format:
+```
+@article{Alphabet-Recognition-EMNIST,
+author = {Bahadur, Akshay},
+journal = {https://github.com/akshaybahadur21/Alphabet-Recognition-EMNIST},
+month = {01},
+title = {{Alphabet-Recognition-EMNIST}},
+year = {2018}
+}
+```
